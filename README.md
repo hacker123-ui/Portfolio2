@@ -11,3 +11,7 @@
 💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
 ![preview img](/preview.png)
+
+
+
+Note-import you image in the src file in the directory set to set your own profile image.
